@@ -18,7 +18,8 @@ Problemáticas da empresa:
 - Dificuldade em personalizar ofertas e comunicações
 - Impossibilidade de prever comportamentos futuros
 
-Nossa solução é o Club Bus:
+Nossa solução é o **Club Bus**:
+
 Um programa de fidelidade inteligente gratuito da ClickBus, criado para aprofundar o conhecimento sobre os clientes que já realizaram compras na plataforma.
 Ele permite personalizar a experiência dos consumidores e aumentar as vendas da empresa através do convertimento do interesse dos clientes em compras.
 A nossa solução utiliza dados para segmentar os consumidores e oferecer uma experiência mais personalizada.
