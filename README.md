@@ -8,7 +8,7 @@ Solução desenvolvida no **Challenge anual da FIAP**, em parceria com a empresa
 
 A partir da análise do cenário da empresa, foram-se identificadas problemáticas e a partir delas, foi-se criada uma solução.
 
-Problemáticas da empresa:
+Problemas da empresa:
 - Falta de conhecimento sobre o perfil dos compradores
 - Perda de oportunidades de venda
 - Dificuldade em personalizar ofertas e comunicações
