@@ -25,5 +25,6 @@ Objetivos da Solução:
 - Maior retorno em campanhas e ações de marketing
 - Fidelização de clientes
 - Melhoria na experiência de compra do cliente
-
-**LINK DASHBOARD:** https://app.powerbi.com/view?r=eyJrIjoiZDg1MDVkNGUtY2Y0MC00OTIwLTk0YjEtOGU4YTdhMThmZGMwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9 
+**LINK APRESENTAÇÂO:** https://www.canva.com/design/DAGzPKZ_D54/KwLG9P5JipGjcfMcBPZX1Q/edit
+**LINK DASHBOARD:** https://app.powerbi.com/view?r=eyJrIjoiZDg1MDVkNGUtY2Y0MC00OTIwLTk0YjEtOGU4YTdhMThmZGMwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
+**LINK VIDEO** https://www.youtube.com/watch?v=PQcmUkm98ts
