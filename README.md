@@ -26,7 +26,7 @@ Objetivos da Solução:
 - Fidelização de clientes
 - Melhoria na experiência de compra do cliente
   
-**LINK APRESENTAÇÂO:** https://www.canva.com/design/DAGzPKZ_D54/KwLG9P5JipGjcfMcBPZX1Q/edit
+**LINK APRESENTAÇÂO:** [https://www.canva.com/design/DAGzPKZ_D54/KwLG9P5JipGjcfMcBPZX1Q/edit?utm_content=DAGzPKZ_D54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
   
 **LINK DASHBOARD:** https://app.powerbi.com/view?r=eyJrIjoiZDg1MDVkNGUtY2Y0MC00OTIwLTk0YjEtOGU4YTdhMThmZGMwIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9
 
