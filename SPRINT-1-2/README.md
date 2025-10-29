@@ -1,4 +1,5 @@
-Primeiras Sprints para Ideação e Criação de um Modelo de Protótipo
+Primeiras Sprints para Ideação da Solução e Criação de um Modelo de Protótipo
 
-- Slides do Pitch
-- Slides de Protótipo
+- Slides do Pitch para Ideação da Solução
+- Slides de Ideação do Protótipo
+
