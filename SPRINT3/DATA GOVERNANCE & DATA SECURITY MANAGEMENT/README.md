@@ -13,3 +13,10 @@ Entregue o link de acesso ao seu plano de projetos na nuvem.
 Garanta que o professor esteja cadastrado como membro da organização e administrador do projeto.
 
 Entregas fora das especificações implicarão em perda de 10% na nota de avaliação.
+
+### NOTA: 100
+
+### FEEDBACK:
+
+Muito bom, com todas as informações, passagens de de cards por status.
+
